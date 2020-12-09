@@ -17,6 +17,10 @@ Sistema simples de comentários, contem:
 
  #### Comando para iniciar uma estancia gráfica
  $ vue ui
+
+ ## Referência
+
+ Link: https://www.youtube.com/watch?v=cSa-SMVMGsE&t=2171s
  
 
  
