@@ -11,16 +11,20 @@ Sistema simples de comentários, contem:
  - Visualização dos comentários
  - Opção para excluir comentários
 
- ## Instalar Vue CLI 
+## Instalar Vue CLI 
  - npm install -g @vue/cli
  - yarn global add @vue/cli 
 
- #### Comando para iniciar uma estancia gráfica
- $ vue ui
+#### Comando para iniciar uma estancia gráfica
+$ vue ui
 
- ## Referência
+#### Comando para rodar o projeto
+##### Rode esse comando dentro da pasta vuejs-cli
+ $ npm run serve
 
- Link: https://www.youtube.com/watch?v=cSa-SMVMGsE&t=2171s
+## Referência
+
+Link: https://www.youtube.com/watch?v=cSa-SMVMGsE&t=2171s
  
 
  
